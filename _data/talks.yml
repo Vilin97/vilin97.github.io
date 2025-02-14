@@ -15,3 +15,12 @@ main:
     abstract: https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/44733
     image: ./assets/img/xll logo.jpeg
     description: Lessons learned in building community and mentoring undergraduate research projects in Lean.
+
+  - title: "Diffusion Generative Modeling: Making Pictures from Noise with Math"
+    authors: <strong>Vasily Ilin</strong>
+    conference_short: JMM
+    conference: UW Math AI seminar
+    abstract: https://math.washington.edu/events/2025-01-30/diffusion-generative-modeling-making-pictures-noise-math
+    image: ./assets/img/ICA_MNIST.png
+    description: An SDE-first introduction to diffusion generative modeling.
+    # slides: TODO
