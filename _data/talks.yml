@@ -23,4 +23,4 @@ main:
     abstract: https://math.washington.edu/events/2025-01-30/diffusion-generative-modeling-making-pictures-noise-math
     image: ./assets/img/ICA_MNIST.png
     description: An SDE-first introduction to diffusion generative modeling.
-    # slides: TODO
+    slides: assets/files/DGM_slides.pdf
