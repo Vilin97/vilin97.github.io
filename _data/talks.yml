@@ -18,9 +18,9 @@ main:
 
   - title: "Diffusion Generative Modeling: Making Pictures from Noise with Math"
     authors: <strong>Vasily Ilin</strong>
-    conference_short: JMM
+    # conference_short: JMM
     conference: UW Math AI seminar
     abstract: https://math.washington.edu/events/2025-01-30/diffusion-generative-modeling-making-pictures-noise-math
-    image: ./assets/img/ICA_MNIST.png
+    image: ./assets/img/ica mnist.png
     description: An SDE-first introduction to diffusion generative modeling.
     slides: assets/files/DGM_slides.pdf
