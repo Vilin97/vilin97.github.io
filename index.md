@@ -15,6 +15,8 @@ I grew up in Moscow, Russia. At 17 I moved to Boston to attend Boston University
 
 ## News
 
+- **[Apr. 2025]** Presented poster "Score-Based Deterministic Density Sampling" at ICLR 2025.
+- **[Mar. 2025]** Presented poster "Transport-based particle methods for the Fokker-Planck-Landau equation" at the Kinetic Fluid Workshop in UW-Madison.
 - **[Feb. 2025]** RealEdit paper accepted in CVPR, Landau paper accepted in the CMS journal.
 - **[Jan. 2025]** Gave two talks at JMM 2025 on [sampling](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/40036) and [Lean](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/44733).
 - **[Nov. 2024]** Submitted a paper on image editing with diffusion models to CVPR 2025.
