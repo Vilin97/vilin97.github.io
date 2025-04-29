@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student at the University of Washington, working with [Jingwei Hu](https://jingweihu-math.github.io/webpage/).
 
-I grew up in Moscow, Russia. At 17 I moved to Boston to attend Boston University. My first academic interest was economics but I switched to math mid-way. In 2017 I spent a semester in Auckland, New Zealand, where I took my first proof based-math class. In 2019 I graduated from BU but stayed another year for a Masters degree in computer science, graduating in 2020. I started my PhD in pure math at the University of Washington in 2020, working on algebraic topology, but switched to applied math in 2022 after the first internship at Google. Since then I have worked on applications of deep learning and interacting particle systems to the Landau equation and to sampling.
+I grew up in Russia before moving to Boston in 2015 for undergrad. Initially pursuing economics, I switched to mathematics and graduated in 2019, followed by a Master's in computer science in 2020. I began my PhD at the University of Washington in algebraic topology, then pivoted to applied mathematics in 2022 after an internship at Google. My current research focuses on deep learning and interacting particle systems applied to plasma modeling and sampling problems.
 
 ## Research Interests
 

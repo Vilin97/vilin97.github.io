@@ -1,9 +1,18 @@
 main:
 
+  - title: "Score-Based Deterministic Density Sampling"
+    authors: Vasily Ilin, Bamdad Hosseini, Jingwei Hu
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025
+    pdf: https://arxiv.org/pdf/2504.18130v1
+    code: https://github.com/Vilin97/SBTM-sampling
+    description: Deterministic sampling of an unnormalized density using on-the-fly score estimation.
+    image: ./assets/img/sampling circle distribution.png
+
   - title: "RealEdit: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations"
     authors: Petr Sushko, Ayana Bharadwaj, Zhi Yang Lim, <strong>Vasily Ilin</strong>, Ben Caffee, Dongping Chen, Mohammadreza Salehi, Cheng-Yu Hsieh, Ranjay Krishna
     conference_short: CVPR
-    conference: Accepted to CVPR, 2025
+    conference: CVPR, 2025
     page: https://peter-sushko.github.io/RealEdit/
     pdf: https://arxiv.org/pdf/2502.03629
     image: ./assets/img/realedit teaser.png
@@ -12,7 +21,7 @@ main:
   - title: "Transport based particle methods for the Fokker-Planck-Landau equation"
     authors: <strong>Vasily Ilin</strong>, Jingwei Hu, Zhenfu Wang
     conference_short: CMS
-    conference: Accepted to Communications in Mathematical Sciences, 2025.
+    conference: Communications in Mathematical Sciences, 2025.
     pdf: https://arxiv.org/pdf/2405.10392
     code: https://github.com/Vilin97/GradientFlows.jl
     image: ./assets/img/tokamak picture.png
