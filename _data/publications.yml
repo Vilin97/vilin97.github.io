@@ -1,13 +1,13 @@
 main:
 
   - title: "Score-Based Deterministic Density Sampling"
-    authors: Vasily Ilin, Bamdad Hosseini, Jingwei Hu
+    authors: Vasily Ilin, Peter Sushko, Jingwei Hu
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2025
-    pdf: https://arxiv.org/pdf/2504.18130v1
+    pdf: https://arxiv.org/pdf/2504.18130v2
     code: https://github.com/Vilin97/SBTM-sampling
     description: Deterministic sampling of an unnormalized density using on-the-fly score estimation.
-    image: ./assets/img/sampling circle distribution.png
+    image: ./assets/img/sbtm_visual.png
 
   - title: "RealEdit: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations"
     authors: Petr Sushko, Ayana Bharadwaj, Zhi Yang Lim, <strong>Vasily Ilin</strong>, Ben Caffee, Dongping Chen, Mohammadreza Salehi, Cheng-Yu Hsieh, Ranjay Krishna
