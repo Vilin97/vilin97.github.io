@@ -10,6 +10,7 @@
 
 <h4 style="margin:0 10px 0;">Organizing</h4>
 <ul style="margin:0 0 5px;">
+  <li><a href="ai.math.uw.edu">Math AI Lab</a> 2022-present</li>
   <li><a href="https://math.washington.edu/events/series/math-ai-seminar">Math AI Seminar</a> 2024-present</li>
 </ul>
 

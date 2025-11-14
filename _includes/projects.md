@@ -1,6 +1,8 @@
 ## Projects
 
 <ul style="margin:0 0 5px;">
+    <li>[2025] <a href="https://github.com/Vilin97/Urait">University course collector</a> (Data scraping, Gemini API, Serper API) - Scraped a dataset of 100,000 university courses from Russian universities, to be used by the Urait educational platform.</li>
+    <li>[2025] <a href="https://github.com/Vilin97/ClimbGenie">Climb Genie</a> (Data scraping, SQL) - Made a bi-gram climbing route generator for the Kilter board.</li>
     <li>[2024] <a href="https://github.com/Vilin97/score-based-tutorial">Conditional Score-based generative modeling</a> (PyTorch) - Implemented conditional score-based generative modeling on MNIST from scratch.</li>
     <li>[2024] <a href="https://github.com/Vilin97/central_limit_theorem">Formalizing Central Limit Theorem</a> (Lean4) - Formalized several lemmas on the way to the full CLT formalization, pushed them upstream to mathlib4.</li>
     <li>[2024] <a href="https://github.com/Vilin97/TelegramAIbot">AI DnD Bot</a> (OpenAI API, PostgreSQL) - Telegram bot for Dungeons & Dragons with long- and short-term memory and image generation features.</li>

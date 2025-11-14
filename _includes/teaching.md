@@ -10,6 +10,7 @@
 
 <ul style="margin:0 0 5px;">
     <li>Introduction to Mathematical Formalization, 2025</li>
+    <li>Linear Algebra, 2023-2024</li>
     <li>Discrete Mathematical Modeling, 2023</li>
     <li>Calculus, 2020-2022</li>
     <li>Data Science, 2020</li>
