@@ -1,10 +1,22 @@
 main:
 
+  - title: "From Kernels to Attention: A Transformer Framework for Density and Score Estimation"
+    authors: <strong>Vasily Ilin</strong>, Peter Sushko
+    pdf: https://arxiv.org/pdf/2511.05924
+    description: A Transformer-based architecture for joint density and score estimation from samples, comparable to kernel density estimation in design but with much better scaling.
+    image: ./assets/img/attention_scatter.png
+
+  - title: "Stability of the spatially homogeneous Landau equation in relative entropy and applications to score-based numerical methods"
+    authors: <strong>Vasily Ilin</strong>
+    pdf: https://arxiv.org/pdf/2510.15089
+    description: Quantitative stability estimate of the Landau equation in relative entropy, and an application to error analysis of score-based particle methods for simulating plasma.
+    image: ./assets/img/landau_stability.png
+
   - title: "Score-Based Deterministic Density Sampling"
-    authors: Vasily Ilin, Peter Sushko, Jingwei Hu
+    authors: <strong>Vasily Ilin</strong>, Peter Sushko, Jingwei Hu
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2025
-    pdf: https://arxiv.org/pdf/2504.18130v2
+    pdf: https://arxiv.org/pdf/2504.18130v3
     code: https://github.com/Vilin97/SBTM-sampling
     description: Deterministic sampling of an unnormalized density using on-the-fly score estimation.
     image: ./assets/img/sbtm_visual.png
