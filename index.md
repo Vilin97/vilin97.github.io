@@ -15,8 +15,10 @@ I grew up in Russia before moving to Boston in 2015 for undergrad. Initially pur
 
 ## News
 
-- **[Nov. 2025]** Posted ["From Kernels to Attention: A Transformer Framework for Density and Score Estimation"](https://arxiv.org/abs/2511.05924) on Arxiv.
-- **[Oct. 2025]** Posted ["Stability of the spatially homogeneous Landau equation in relative entropy and applications to score-based numerical methods"](https://arxiv.org/abs/2510.15089) on Arxiv.
+- **[Feb. 2026]** Posted ["Semantic Search over 9 Million Mathematical Theorems"](https://arxiv.org/abs/2602.05216) on arXiv.
+- **[Feb. 2026]** Posted ["Learning to Repair Lean Proofs from Compiler Feedback"](https://arxiv.org/abs/2602.02990) on arXiv.
+- **[Feb. 2026]** Updated DiScoFormer paper: ["DiScoFormer: Plug-In Density and Score Estimation with Transformers"](https://arxiv.org/abs/2511.05924) (v2).
+- **[Oct. 2025]** Posted ["Stability of the spatially homogeneous Landau equation in relative entropy and applications to score-based numerical methods"](https://arxiv.org/abs/2510.15089) on arXiv.
 - **[Sep. 2025]** Started part-time work as AI Researcher at Math.Inc.
 - **[Sep. 2025]** Finished my fourth internship at Google, using LLMs to turn slides into videos.
 - **[Apr. 2025]** Presented poster "Score-Based Deterministic Density Sampling" at ICLR 2025.
@@ -24,7 +26,7 @@ I grew up in Russia before moving to Boston in 2015 for undergrad. Initially pur
 - **[Feb. 2025]** RealEdit paper accepted in CVPR, Landau paper accepted in the CMS journal.
 - **[Jan. 2025]** Gave two talks at JMM 2025 on [sampling](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/40036) and [Lean](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/44733).
 - **[Nov. 2024]** Submitted a paper on image editing with diffusion models to CVPR 2025.
-- **[Sep. 2024]** Finished my third internship at Google, working on detection of defective TPUs using maching learning.
+- **[Sep. 2024]** Finished my third internship at Google, working on detection of defective TPUs using machine learning.
 - **[Jun. 2024]** Participated in the SLMath summer school on interacting particle systems.
 - **[May 2024]** Released pre-print "Transport based particle methods for the Fokker-Planck-Landau equation".
 - **[Feb. 2024]** Passed my general exam.

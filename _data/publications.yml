@@ -1,9 +1,24 @@
 main:
 
-  - title: "From Kernels to Attention: A Transformer Framework for Density and Score Estimation"
+  - title: "Semantic Search over 9 Million Mathematical Theorems"
+    authors: Luke Alexander, Eric Leonen, Sophie Szeto, Artemii Remizov, Ignacio Tejeda, Giovanni Inchiostro, <strong>Vasily Ilin</strong>
+    pdf: https://arxiv.org/pdf/2602.05216
+    page: https://huggingface.co/spaces/uw-math-ai/theorem-search
+    code: https://huggingface.co/datasets/uw-math-ai/TheoremSearch
+    description: A large-scale semantic search system over 9.2 million theorem statements extracted from arXiv and seven other sources, the largest publicly available collection of research-level theorems.
+    image: ./assets/img/theorem_search_pipeline.png
+
+  - title: "Learning to Repair Lean Proofs from Compiler Feedback"
+    authors: Evan Wang, Simon Chess, Daniel Lee, Siyuan Ge, Ajit Mallavarapu, <strong>Vasily Ilin</strong>
+    pdf: https://arxiv.org/pdf/2602.02990
+    code: https://huggingface.co/datasets/uw-math-ai/APRIL
+    description: A dataset of 260,000 supervised tuples pairing proof failures with compiler diagnostics, and a fine-tuned 4B-parameter model that surpasses existing approaches in single-shot Lean proof repair.
+    image: ./assets/img/lean_workflow.png
+
+  - title: "DiScoFormer: Plug-In Density and Score Estimation with Transformers"
     authors: <strong>Vasily Ilin</strong>, Peter Sushko
     pdf: https://arxiv.org/pdf/2511.05924
-    description: A Transformer-based architecture for joint density and score estimation from samples, comparable to kernel density estimation in design but with much better scaling.
+    description: An equivariant Transformer that maps i.i.d. samples to both density values and score vectors, generalizing across distributions and sample sizes, with a principled connection to kernel density estimation.
     image: ./assets/img/attention_scatter.png
 
   - title: "Stability of the spatially homogeneous Landau equation in relative entropy and applications to score-based numerical methods"
