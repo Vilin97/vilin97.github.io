@@ -1,4 +1,15 @@
-## Services
+## Academic Service
+
+<h4 style="margin:0 10px 0;">Reviewing</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://icml.cc/Conferences/2026">International Conference on Machine Learning (ICML)</a> 2026</li>
+  <li><a href="https://iclr.cc/Conferences/2026">LLM Logical Reasoning Workshop @ ICLR</a> 2026</li>
+  <li><a href="https://gram-workshop.github.io/">Geometry-grounded Representation Learning and Generative Modeling (GRaM) @ ICLR</a> 2026</li>
+  <li><a href="https://iclr.cc/Conferences/2026">AI+PDE Workshop @ ICLR</a> 2026</li>
+  <li><a href="https://sites.google.com/view/ai4mathworkshopicml2025">The 2nd AI for Math Workshop @ ICML</a> 2025</li>
+  <li><a href="https://www.aimsciences.org/journal/1534-0392">Communications on Pure and Applied Analysis</a> (journal)</li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Teaching Volunteering</h4>
 
