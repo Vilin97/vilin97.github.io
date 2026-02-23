@@ -21,4 +21,5 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://github.com/SciML/JumpProcesses.jl/pulls?q=is%3Apr+author%3Avilin97+">JumpProcesses.jl</a>  2019-2023</li>
   <li><a href="https://github.com/leanprover-community/mathlib4/pulls?q=is%3Apr+author%3Avilin97+">Mathlib4</a> 2024-present</li>
+  <li><a href="https://github.com/cayleypy/cayleypy">CayleyPy</a> 2026-present</li>
 </ul>
