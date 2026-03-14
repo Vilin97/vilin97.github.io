@@ -1,6 +1,7 @@
 ## Work Experience
 
 <ul style="margin:0 0 5px;">
+    <li>[2025] AI Intern at Google Cloud - Improved a Slides2Video model with a multi-agentic APO algorithm. Achieved F1 score of 0.9. Collaborated with Google DeepMind.</li>
     <li>[2024] ML Intern at Google Cloud (Python, SQL) - Trained XGBoost to predict defective TPUs from telemetry, achieved 80% accuracy and improved test efficiency 4x.</li>
     <li>[2023] ML Intern at YouTube (Python, C++, SQL) - Trained ML models to enhance cache efficiency achieving 2x Egress/Ingress improvement. Implemented better load balancing based on two random choices model.</li>
     <li>[2022] Data Engineering Intern at Google (FlumeJava, SQL) - Built distributed pipeline for Nearby Share. Reduced dashboard loading from 30s to 1s using approximate aggregation.</li>

@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the University of Washington, working with [Jingwei Hu](https://jingweihu-math.github.io/webpage/) and [Jarod Alper](https://sites.math.washington.edu//~jarod/). I am the deputy director of the [UW Math AI Lab](ai.math.uw.edu) and I organize the [UW Math AI Seminar](https://math.washington.edu/events/series/math-ai-seminar).
+I am a Ph.D. student at the University of Washington, working with [Jingwei Hu](https://jingweihu-math.github.io/webpage/) and [Jarod Alper](https://sites.math.washington.edu//~jarod/). I am the Director of the [UW Math AI Lab](ai.math.uw.edu) and I organize the [UW Math AI Seminar](https://math.washington.edu/events/series/math-ai-seminar).
 
 I grew up in Russia before moving to Boston in 2015 for undergrad. Initially pursuing economics, I switched to mathematics and graduated in 2019, followed by a Master's in computer science in 2020. I began my PhD at the University of Washington in algebraic topology, then pivoted to applied mathematics in 2022 after an internship at Google. My current research focuses scientific machine learning and AI for mathematics.
 
@@ -15,11 +15,12 @@ I grew up in Russia before moving to Boston in 2015 for undergrad. Initially pur
 
 ## News
 
+- **[Mar. 2026]** Three papers from the UW Math AI Lab accepted to ICLR 2026 workshops: [Theorem Search](https://arxiv.org/abs/2602.05216), [Lean Proof Repair](https://arxiv.org/abs/2602.02990), and [DiScoFormer](https://arxiv.org/abs/2511.05924).
+- **[Mar. 2026]** Became Director of the [UW Math AI Lab](http://ai.math.uw.edu).
 - **[Feb. 2026]** Posted ["Semantic Search over 9 Million Mathematical Theorems"](https://arxiv.org/abs/2602.05216) on arXiv.
 - **[Feb. 2026]** Posted ["Learning to Repair Lean Proofs from Compiler Feedback"](https://arxiv.org/abs/2602.02990) on arXiv.
 - **[Feb. 2026]** Updated DiScoFormer paper: ["DiScoFormer: Plug-In Density and Score Estimation with Transformers"](https://arxiv.org/abs/2511.05924) (v2).
 - **[Oct. 2025]** Posted ["Stability of the spatially homogeneous Landau equation in relative entropy and applications to score-based numerical methods"](https://arxiv.org/abs/2510.15089) on arXiv.
-- **[Sep. 2025]** Started part-time work as AI Researcher at Math.Inc.
 - **[Sep. 2025]** Finished my fourth internship at Google, using LLMs to turn slides into videos.
 - **[Apr. 2025]** Presented poster "Score-Based Deterministic Density Sampling" at ICLR 2025.
 - **[Mar. 2025]** Presented poster "Transport-based particle methods for the Fokker-Planck-Landau equation" at the Kinetic Fluid Workshop in UW-Madison.
