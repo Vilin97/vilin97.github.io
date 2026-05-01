@@ -15,7 +15,9 @@ I grew up in Russia before moving to Boston in 2015 for undergrad. Initially pur
 
 ## News
 
-- **[Mar. 2026]** Three papers from the UW Math AI Lab accepted to ICLR 2026 workshops: [Theorem Search](https://arxiv.org/abs/2602.05216), [Lean Proof Repair](https://arxiv.org/abs/2602.02990), and [DiScoFormer](https://arxiv.org/abs/2511.05924).
+- **[May 2026]** [DiScoFormer](https://arxiv.org/abs/2511.05924) accepted to ICML 2026 as a Spotlight (top 2.2%).
+- **[May 2026]** ["Score-Based Deterministic Density Sampling"](https://www.aimsciences.org/article/doi/10.3934/cpaa.2026028) published in Communications on Pure and Applied Analysis (CPAA).
+- **[Mar. 2026]** Four papers from the UW Math AI Lab accepted to ICLR 2026 workshops: [Theorem Search](https://arxiv.org/abs/2602.05216), [Lean Proof Repair](https://arxiv.org/abs/2602.02990), [DiScoFormer](https://arxiv.org/abs/2511.05924), and [A Neural Score-Based Method for Deterministic Collisional Plasma Simulation](https://arxiv.org/abs/2603.25832).
 - **[Feb. 2026]** Posted ["Semantic Search over 9 Million Mathematical Theorems"](https://arxiv.org/abs/2602.05216) on arXiv.
 - **[Feb. 2026]** Posted ["Learning to Repair Lean Proofs from Compiler Feedback"](https://arxiv.org/abs/2602.02990) on arXiv.
 - **[Feb. 2026]** Updated DiScoFormer paper: ["DiScoFormer: Plug-In Density and Score Estimation with Transformers"](https://arxiv.org/abs/2511.05924) (v2).

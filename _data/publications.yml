@@ -1,7 +1,7 @@
 main:
 
   - title: "Semantic Search over 9 Million Mathematical Theorems"
-    authors: Luke Alexander, Eric Leonen, Sophie Szeto, Artemii Remizov, Ignacio Tejeda, Giovanni Inchiostro, <strong>Vasily Ilin</strong>
+    authors: Luke Alexander, Eric Leonen, Sophie Szeto, Artemii Remizov, Ignacio Tejeda, Jarod Alper, Giovanni Inchiostro, <strong>Vasily Ilin</strong>
     conference_short: ICLR
     conference: ICLR 2026 Workshop
     pdf: https://arxiv.org/pdf/2602.05216
@@ -11,7 +11,7 @@ main:
     image: ./assets/img/theorem_search_pipeline.png
 
   - title: "Learning to Repair Lean Proofs from Compiler Feedback"
-    authors: Evan Wang, Simon Chess, Daniel Lee, Siyuan Ge, Ajit Mallavarapu, <strong>Vasily Ilin</strong>
+    authors: Evan Wang, Simon Chess, Daniel Lee, Siyuan Ge, Ajit Mallavarapu, Jarod Alper, <strong>Vasily Ilin</strong>
     conference_short: ICLR
     conference: ICLR 2026 Workshop
     pdf: https://arxiv.org/pdf/2602.02990
@@ -23,14 +23,16 @@ main:
     authors: <strong>Vasily Ilin</strong>, Jingwei Hu
     conference_short: ICLR
     conference: ICLR 2026 Workshop on AI and Partial Differential Equations
+    pdf: https://arxiv.org/abs/2603.25832
     description: A neural network method for deterministic simulation of collisional plasma, inspired by score-based generative modeling.
     image: ./assets/img/tokamak picture.png
 
   - title: "DiScoFormer: Plug-In Density and Score Estimation with Transformers"
     authors: <strong>Vasily Ilin</strong>, Peter Sushko
-    conference_short: ICLR
-    conference: ICLR 2026 Workshop
+    conference_short: ICML
+    conference: ICML 2026
     pdf: https://arxiv.org/pdf/2511.05924
+    notes: Spotlight (top 2.2%)
     description: An equivariant Transformer that maps i.i.d. samples to both density values and score vectors, generalizing across distributions and sample sizes, with a principled connection to kernel density estimation.
     image: ./assets/img/attention_scatter.png
 
@@ -42,9 +44,10 @@ main:
 
   - title: "Score-Based Deterministic Density Sampling"
     authors: <strong>Vasily Ilin</strong>, Peter Sushko, Jingwei Hu
-    conference_short: ICLR
-    conference: International Conference on Learning Representations, 2025
+    conference_short: CPAA
+    conference: Communications on Pure and Applied Analysis, 2026
     pdf: https://arxiv.org/pdf/2504.18130v3
+    page: https://www.aimsciences.org/article/doi/10.3934/cpaa.2026028
     code: https://github.com/Vilin97/SBTM-sampling
     description: Deterministic sampling of an unnormalized density using on-the-fly score estimation.
     image: ./assets/img/sbtm_visual.png
