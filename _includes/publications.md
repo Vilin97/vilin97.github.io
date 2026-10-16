@@ -9,7 +9,7 @@
 <div class="pub-row">
   {% if link.image %}
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" alt="Figure from {{ link.title | escape }}" loading="lazy" class="teaser img-fluid z-depth-1">
+    <img src="{{ link.image }}" alt="Figure from {{ link.title | escape }}" loading="lazy" class="teaser img-fluid z-depth-1" style="object-fit: {{ link.image_fit | default: 'cover' }};">
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
