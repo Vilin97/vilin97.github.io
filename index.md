@@ -23,6 +23,7 @@ I grew up in Russia and moved to Boston in 2015. I studied mathematics as an und
 - **[Sep. 2026]** Posted ["Lean Pool: An AI-Maintained Archive of Formalized Mathematics"](https://arxiv.org/abs/2609.25199) on arXiv.
 - **[Jun. 2026]** Posted ["TheoremGraph: Bridging Formal and Informal Mathematics"](https://arxiv.org/abs/2606.25363) on arXiv.
 - **[Jun. 2026]** Defended my Ph.D. at the University of Washington.
+- **[May 2026]** Presented ["Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium"](https://arxiv.org/abs/2603.15929) at [AI, Proof and Verification (AIPV)](https://aipvconf.org/program/), a workshop colocated with FM 2026 in Tokyo, on May 19.
 - **[May 2026]** [DiScoFormer](https://arxiv.org/abs/2511.05924) selected for an **oral presentation at ICML 2026**.
 - **[May 2026]** ["Score-Based Deterministic Density Sampling"](https://www.aimsciences.org/article/doi/10.3934/cpaa.2026028) published in Communications on Pure and Applied Analysis (CPAA).
 - **[Mar. 2026]** Four papers from the UW Math AI Lab accepted to ICLR 2026 workshops: [Theorem Search](https://arxiv.org/abs/2602.05216), [Lean Proof Repair](https://arxiv.org/abs/2602.02990), [DiScoFormer](https://arxiv.org/abs/2511.05924), and [A Neural Score-Based Method for Deterministic Collisional Plasma Simulation](https://arxiv.org/abs/2603.25832).

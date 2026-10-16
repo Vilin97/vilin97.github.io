@@ -29,7 +29,9 @@ main:
 
   - title: "Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium"
     authors: <strong>Vasily Ilin</strong>
-    conference: arXiv preprint, 2026
+    conference_short: AIPV
+    conference: AI, Proof and Verification (AIPV), FM 2026 workshop, Tokyo, Japan
+    conference_url: https://aipvconf.org/program/
     pdf: https://arxiv.org/pdf/2603.15929
     code: https://github.com/Vilin97/aristotle/tree/landau
     image: ./assets/img/vml-formalization-thumbnail.png
