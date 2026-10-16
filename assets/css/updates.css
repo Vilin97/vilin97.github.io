@@ -1,0 +1,27 @@
+.location {
+  font-size: 0.95rem;
+}
+
+.social-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.social-icons a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+.publication-award {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0.25rem;
+  background: #f9e4aa;
+  color: #634100;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.4;
+  vertical-align: middle;
+}

@@ -4,20 +4,29 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the University of Washington, working with [Jingwei Hu](https://jingweihu-math.github.io/webpage/) and [Jarod Alper](https://sites.math.washington.edu//~jarod/). I am a Director of the [UW Math AI Lab](ai.math.uw.edu) and I organize the [UW Math AI Seminar](https://math.washington.edu/events/series/math-ai-seminar).
+I work at [Axiom Math](https://axiommath.ai/) in Palo Alto, California, on **large-scale autoformalization of mathematics**. I build tools and AI workflows that turn research mathematics into machine-checked proofs in Lean, and make mathematical knowledge easier to find and reuse.
 
-I grew up in Russia before moving to Boston in 2015 for undergrad. Initially pursuing economics, I switched to mathematics and graduated in 2019, followed by a Master's in computer science in 2020. I began my PhD at the University of Washington in algebraic topology, then pivoted to applied mathematics in 2022 after an internship at Google. My current research focuses scientific machine learning and AI for mathematics.
+I completed my Ph.D. at the University of Washington, working with [Jingwei Hu](https://jingweihu-math.github.io/webpage/) and [Jarod Alper](https://sites.math.washington.edu/~jarod/). I am a founding director of the [UW Math AI Lab](https://ai.math.uw.edu/), where my work includes [TheoremSearch](https://theoremsearch.com/) and [TheoremGraph](https://arxiv.org/abs/2606.25363). I also maintain [Lean Pool](https://github.com/Vilin97/lean-pool), an AI-maintained archive of formalized mathematics.
+
+I grew up in Russia and moved to Boston in 2015. I studied mathematics as an undergraduate and earned a Master's in computer science before moving to Seattle for my Ph.D. My earlier research focused on scientific machine learning, score-based methods, and plasma simulation.
 
 ## Research Interests
 
-- **Scientific Machine Learning:** model chemical dynamics, plasma and particle systems using neural networks.
-- **AI for Math:** accelerate mathematics research with Lean and AI.
+- **Large-scale autoformalization:** use AI agents to formalize research mathematics in Lean and grow reusable libraries of verified results.
+- **Mathematical knowledge infrastructure:** connect formal and informal mathematics through semantic search, theorem dependency graphs, and retrieval for theorem-proving agents.
+- **AI-assisted mathematical research:** combine mathematical reasoning and formal verification to develop and check new results.
 
 ## News
 
-- **[May 2026]** [DiScoFormer](https://arxiv.org/abs/2511.05924) accepted to ICML 2026 as a Spotlight (top 2.2%).
+- **[Oct. 2026]** Posted ["Ternary polynomial relations and periods of cusp forms"](https://arxiv.org/abs/2610.19309), joint work with Ken Ono, with the main results formalized in Lean by AxiomProver.
+- **[Sep. 2026]** [TheoremSearch](https://arxiv.org/abs/2602.05216) accepted to the NeurIPS 2026 Evaluations & Datasets Track.
+- **[Sep. 2026]** Posted ["Lean Pool: An AI-Maintained Archive of Formalized Mathematics"](https://arxiv.org/abs/2609.25199) on arXiv.
+- **[Jun. 2026]** Posted ["TheoremGraph: Bridging Formal and Informal Mathematics"](https://arxiv.org/abs/2606.25363) and ["Evaluation of LLMs for Mathematical Formalization in Lean"](https://arxiv.org/abs/2606.05632) on arXiv.
+- **[Jun. 2026]** Defended my Ph.D. at the University of Washington.
+- **[May 2026]** [DiScoFormer](https://arxiv.org/abs/2511.05924) selected for an **oral presentation at ICML 2026**.
 - **[May 2026]** ["Score-Based Deterministic Density Sampling"](https://www.aimsciences.org/article/doi/10.3934/cpaa.2026028) published in Communications on Pure and Applied Analysis (CPAA).
 - **[Mar. 2026]** Four papers from the UW Math AI Lab accepted to ICLR 2026 workshops: [Theorem Search](https://arxiv.org/abs/2602.05216), [Lean Proof Repair](https://arxiv.org/abs/2602.02990), [DiScoFormer](https://arxiv.org/abs/2511.05924), and [A Neural Score-Based Method for Deterministic Collisional Plasma Simulation](https://arxiv.org/abs/2603.25832).
+- **[Mar. 2026]** Posted ["Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium"](https://arxiv.org/abs/2603.15929) on arXiv.
 - **[Feb. 2026]** Posted ["Semantic Search over 9 Million Mathematical Theorems"](https://arxiv.org/abs/2602.05216) on arXiv.
 - **[Feb. 2026]** Posted ["Learning to Repair Lean Proofs from Compiler Feedback"](https://arxiv.org/abs/2602.02990) on arXiv.
 - **[Feb. 2026]** Updated DiScoFormer paper: ["DiScoFormer: Plug-In Density and Score Estimation with Transformers"](https://arxiv.org/abs/2511.05924) (v2).

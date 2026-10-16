@@ -1,20 +1,24 @@
 # Basic Information 
 title: Vasily Ilin
-position: Ph.D. Student
-affiliation: University of Washington
+position: Member of Technical Staff
+affiliation: Axiom Math
+affiliation_link: https://axiommath.ai/
+location: Palo Alto, California
 email: vasilin97 (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: vasily ilin math mathematics website
-description: The website of Vasily Ilin
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Vasily Ilin, mathematics, autoformalization, Lean, AI for mathematics, Axiom Math
+description: Vasily Ilin at Axiom Math in Palo Alto. Research in large-scale autoformalization of mathematics, AI theorem proving, and mathematical knowledge infrastructure.
+canonical: https://vilin97.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=GWN1zfkAAAAJ&hl=en
 cv_link: assets/files/Resume.pdf
 github_link: https://github.com/Vilin97
+linkedin: https://www.linkedin.com/in/vasilyilin/
+twitter: https://x.com/IlinVasily29521
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

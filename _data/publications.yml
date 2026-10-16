@@ -1,9 +1,44 @@
 main:
 
+  - title: "Ternary polynomial relations and periods of cusp forms"
+    authors: <strong>Vasily Ilin</strong>, Ken Ono
+    conference: arXiv preprint, 2026
+    pdf: https://arxiv.org/pdf/2610.19309
+    description: A proof of the Bachmann–van Ittersum conjecture and a classification of its polynomial solutions through period polynomials and cusp forms. The main theorems and essential argument are formalized in Lean 4 by AxiomProver.
+
+  - title: "Lean Pool: An AI-Maintained Archive of Formalized Mathematics"
+    authors: <strong>Vasily Ilin</strong>
+    conference: arXiv preprint, 2026
+    pdf: https://arxiv.org/pdf/2609.25199
+    code: https://github.com/Vilin97/lean-pool
+    description: An archive of formalized mathematics grown, maintained, and optimized by AI agents, preserving substantial Lean formalizations and making them available for reuse.
+
+  - title: "TheoremGraph: Bridging Formal and Informal Mathematics"
+    authors: Simon Kurgan, Evan Wang, Eric Leonen, Sophie Szeto, Luke Alexander, Artemii Remizov, Jarod Alper, Giovanni Inchiostro, <strong>Vasily Ilin</strong>
+    conference: arXiv preprint, 2026
+    pdf: https://arxiv.org/pdf/2606.25363
+    page: https://theoremsearch.com/
+    code: https://huggingface.co/datasets/uw-math-ai/theorem-matching
+    description: A statement-level dependency graph connecting 11.7 million theorem-like environments from arXiv with 388,105 Lean declarations across 25 projects, bridging formal and informal mathematics for search and retrieval.
+
+  - title: "Evaluation of LLMs for Mathematical Formalization in Lean"
+    authors: Tyson Klingner, Drew Bladek, Escher Crawford, Bohao Chen, Ariel Fu, Kaira Nair, Jarod Alper, Giovanni Inchiostro, <strong>Vasily Ilin</strong>
+    conference: arXiv preprint, 2026
+    pdf: https://arxiv.org/pdf/2606.05632
+    code: https://github.com/uw-math-ai/LLMsLean
+    description: An evaluation of language models for Lean 4 proof generation on miniF2F and miniCTX, comparing proof success, iterative refinement, and cost efficiency.
+
+  - title: "Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium"
+    authors: <strong>Vasily Ilin</strong>
+    conference: arXiv preprint, 2026
+    pdf: https://arxiv.org/pdf/2603.15929
+    code: https://github.com/Vilin97/aristotle/tree/landau
+    description: A complete AI-assisted Lean 4 formalization of the Vlasov–Maxwell–Landau equilibrium characterization, supervised by one mathematician over ten days, with public prompts and development history.
+
   - title: "Semantic Search over 9 Million Mathematical Theorems"
     authors: Luke Alexander, Eric Leonen, Sophie Szeto, Artemii Remizov, Ignacio Tejeda, Jarod Alper, Giovanni Inchiostro, <strong>Vasily Ilin</strong>
-    conference_short: ICLR
-    conference: ICLR 2026 Workshop
+    conference_short: NeurIPS
+    conference: NeurIPS 2026, Evaluations & Datasets Track (accepted)
     pdf: https://arxiv.org/pdf/2602.05216
     page: https://theoremsearch.com
     code: https://huggingface.co/datasets/uw-math-ai/TheoremSearch
@@ -28,11 +63,11 @@ main:
     image: ./assets/img/tokamak picture.png
 
   - title: "DiScoFormer: Plug-In Density and Score Estimation with Transformers"
-    authors: <strong>Vasily Ilin</strong>, Peter Sushko
+    authors: <strong>Vasily Ilin</strong>, Peter Sushko, Ranjay Krishna
     conference_short: ICML
     conference: ICML 2026
     pdf: https://arxiv.org/pdf/2511.05924
-    notes: Spotlight (top 2.2%)
+    award: Oral
     description: An equivariant Transformer that maps i.i.d. samples to both density values and score vectors, generalizing across distributions and sample sizes, with a principled connection to kernel density estimation.
     image: ./assets/img/attention_scatter.png
 
