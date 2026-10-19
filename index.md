@@ -19,6 +19,7 @@ I grew up in Russia and moved to Boston in 2015. I studied mathematics as an und
 ## News
 
 - **[Oct. 2026]** Posted ["Ternary polynomial relations and periods of cusp forms"](https://arxiv.org/abs/2610.19309), joint work with Ken Ono, with the main results formalized in Lean by AxiomProver.
+- **[Sep. 2026]** ["It Compiles. Now What? Assessing Research-Level Autoformalization Beyond Correctness"](https://openreview.net/forum?id=5xTutqw6LQ) accepted as a poster at the [NeurIPS 2026 VeriCodeGen workshop](https://vericodegen.github.io/).
 - **[Sep. 2026]** [TheoremSearch](https://arxiv.org/abs/2602.05216) accepted to the NeurIPS 2026 Evaluations & Datasets Track.
 - **[Sep. 2026]** Posted ["Lean Pool: An AI-Maintained Archive of Formalized Mathematics"](https://arxiv.org/abs/2609.25199) on arXiv.
 - **[Jun. 2026]** Posted ["TheoremGraph: Bridging Formal and Informal Mathematics"](https://arxiv.org/abs/2606.25363) on arXiv.

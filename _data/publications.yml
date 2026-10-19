@@ -1,5 +1,17 @@
 main:
 
+  - title: "It Compiles. Now What? Assessing Research-Level Autoformalization Beyond Correctness"
+    authors: <strong>Vasily Ilin</strong>, Evan Wang, Rafael Cabral, Ruize Chen, Simon Mahns, Tobias Gessler
+    conference_short: VeriCodeGen
+    conference: NeurIPS 2026 Workshop on AI for Verifiable Coding (VeriCodeGen), Poster
+    conference_url: https://vericodegen.github.io/
+    pdf: https://openreview.net/pdf?id=5xTutqw6LQ
+    page: https://openreview.net/forum?id=5xTutqw6LQ
+    code: https://github.com/AxiomMath/lean-metrics
+    image: ./assets/img/it-compiles-thumbnail.png
+    image_fit: contain
+    description: A structural audit of 248 AI-generated LeanEval solutions spanning 19.4 million lines of Lean code, examining proof style, dependency structure, documentation, code reuse, and compilation efficiency beyond kernel correctness.
+
   - title: "Ternary polynomial relations and periods of cusp forms"
     authors: <strong>Vasily Ilin</strong>, Ken Ono
     conference: arXiv preprint, 2026
